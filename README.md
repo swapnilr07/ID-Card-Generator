@@ -18,7 +18,8 @@ A fully offline, browser-based ID Card Generator that lets you **upload images**
 
 ## 🖼 Preview
 
-![Screenshot](screenshot.png) <!-- Replace with your actual image name if different -->
+![Screenshot](ID_Card_Generator.PNG)
+![Screenshot](ID_Card_Generator1.PNG)
 
 ---
 
