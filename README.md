@@ -1,6 +1,6 @@
 # 🪪 ID Card Generator (HTML + CSS + JavaScript)
 
-A fully offline, browser-based ID Card Generator that lets you **upload images**, switch between **vertical and horizontal layouts**, and **download high-quality PNG ID cards** — all in a single `.html` file!
+A browser-based ID Card Generator that lets you **upload images**, switch between **vertical and horizontal layouts**, and **download high-quality PNG ID cards** — all in a single `.html` file!
 
 ---
 
@@ -11,7 +11,6 @@ A fully offline, browser-based ID Card Generator that lets you **upload images**
 - ✅ Customize fields: Name, Employee ID, Department, Blood Group, Footer
 - ✅ Real-time **Live Preview**
 - ✅ **Download as PNG** (high-resolution)
-- ✅ Fully offline – works without internet
 - ✅ Built using only **HTML**, **CSS**, and **Vanilla JavaScript**
 
 ---
@@ -25,7 +24,7 @@ A fully offline, browser-based ID Card Generator that lets you **upload images**
 
 ## 🚀 How to Use
 
-1. 📂 Open `index.html` in any modern browser.
+1. 📂 Open [ID_Card_Generator](https://swapnilr07.github.io/ID-Card-Generator/) in any modern browser.
 2. ✍️ Fill in your Name, ID, Department, etc.
 3. 📸 Upload a Photo, Logo, and Signature image.
 4. 🔄 Click **Update** to see the preview.
@@ -33,13 +32,6 @@ A fully offline, browser-based ID Card Generator that lets you **upload images**
 
 ---
 
-## 🌐 Live Hosting (Optional)
-
-You can host this tool on GitHub Pages:
-
-1. Push `index.html` to your GitHub repo.
-2. Go to **Settings → Pages → Source** and choose the branch.
-3. Your tool will be available at: `https://yourusername.github.io/your-repo/`
 
 ---
 
